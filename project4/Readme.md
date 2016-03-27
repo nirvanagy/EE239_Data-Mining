@@ -1,3 +1,4 @@
+# Popularity prediction on twitter
 
 In this project, we predict future popularity of a hashtage on twitter based on current (and previous) tweet activity for a hashtag.
 We extracted the features and select features by t-test and p-values. Then we fit linear regression model, logistic regression model 
